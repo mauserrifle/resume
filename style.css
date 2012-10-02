@@ -13,7 +13,6 @@ hr {
 }
 
 a, a:visited {
-    color: @link;
     text-decoration: none;
 }
 
