@@ -6,9 +6,9 @@ All generation codes below require *pandoc*.
 
 ## Generate HTML version
 
-Generates a .html file that will be using style.css
+Generates a .html file that will be using style.css.
 
-    pandoc -T "My resume" -s -c style.css resume.md -o resume.html
+    pandoc -s -c style.css resume.md -o resume.html
 
 ## Generate plain text version
 
