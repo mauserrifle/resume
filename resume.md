@@ -1,7 +1,7 @@
 # Maurice van der Star
 
-* http://mauserrifle.nl
-* maurice.vd.star@gmail.com
+* <maurice.vd.star@gmail.com>
+* <http://mauserrifle.nl>
 
 -------------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 ## Experience
 2007 - present
 :   **Qball Internet B.V.** in Alkmaar (The Netherlands)  
-    *Web developer*
+    *Web developer*  
 
     Working as a programmer focused on websites running on the LAMP platform.
     Main activities existing from developing using PHP, MySQL, HTML, CSS and 
@@ -27,14 +27,12 @@
 
 2007 - 2009
 :   **MeStyle**  
-    *Web developer*
+    *Web developer*  
 
     Work independently under the name MeStyle to gain experience on
-    programming. Besides programming I also kept busy with graphic Design.
+    programming. Besides programming I also kept busy with graphic Design.  
 
-    Sample project: 
-    [campingmariahoeve.nl](http://www.campingmariahoeve.nl/ 
-    "Camping mariahoeve").
+    Sample project: <http://campingmariahoeve.nl>
 
 -------------------------------------------------------------------------------
 
@@ -43,7 +41,7 @@
 Meaning: ***Advanced***
 
 Operating systems
-:   ***Linux***, OSX, Windows (95-7)
+:   ***Linux***, OSX, Windows (95-7)  
 
     Linux services: Apache2, NFS, OpenSSH, OpenSSL, ProFTPD, rsync, 
     rsnapshop, Samba, Subversion, Git
@@ -52,7 +50,7 @@ Virtualization
 :    VirtualBox, Vagrant
 
 Programming/Scripting
-:   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
+:   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme  
 
     Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM) 
     jQuery (JavaScript), ***Kohana*** (PHP *H*MVC), ***MooTools*** (JavaScript)
