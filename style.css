@@ -1,0 +1,21 @@
+body {
+	width: 640px;
+	margin: 0 auto;
+	background-color: #F9F9F9;
+	font-family: serif;
+	font-size: 1.0em;
+}
+
+hr {
+	color: #E0E0E0;
+	background-color: #E0E0E0;
+	height: 2px;
+}
+
+a, a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
