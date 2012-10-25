@@ -44,7 +44,7 @@ Operating systems
 :   ***Linux***, OSX, Windows (95-7)  
 
     Linux services: Apache2, NFS, OpenSSH, OpenSSL, ProFTPD, rsync, 
-    rsnapshop, Samba, Subversion, Git
+    rsnapshop, Samba, Sphinx, Subversion, Git
 
 Virtualization
 :    VirtualBox, Vagrant
@@ -68,7 +68,7 @@ Development environments / Editors
 :   ***Eclipse***, Microsoft Visual Studio (2003/2008), Netbeans, Vi(m)
 
 DBMS
-:   Interbase, MS SQL, ***MySQL***, Oracle, PostgreSQL
+:   Interbase, MS SQL, ***MySQL***, Oracle, PostgreSQL, Sphinx
 
 Versioning
 :   Subversion, Git
