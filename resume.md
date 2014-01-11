@@ -7,7 +7,7 @@
 
 ## Education
 2008 - 2012
-:   IT study at the University of Applied Sciences (HVA) in Amsterdam (The 
+:   IT study at the University of Applied Sciences (HVA) in Amsterdam (The
     Netherlands).
 
 2004 - 2008
@@ -16,21 +16,33 @@
 -------------------------------------------------------------------------------
 
 ## Experience
+2014 - present
+:   **Qball Internet B.V.** in Alkmaar (The Netherlands)
+    \-
+    *Lead developer*
+
+    Working as a lead developer (manager). Same (technical) activities as
+    position "Web developer" (see period 2007 - 2013). Within this position
+    also responsible for managing the develop team, implement new development
+    methods and realization of the objectives set for the department.
+
 2007 - present
-:   **Qball Internet B.V.** in Alkmaar (The Netherlands)  
-    *Web developer*  
+:   **Qball Internet B.V.** in Alkmaar (The Netherlands)
+    \-
+    *Web developer*
 
     Working as a programmer focused on websites running on the LAMP platform.
-    Main activities existing from developing using PHP, MySQL, HTML, CSS and 
-    JavaScript. Besides programming I am responsible for the installation and 
+    Main activities existing from developing using PHP, MySQL, HTML, CSS and
+    JavaScript. Besides programming I am responsible for the installation and
     maintenance of the local Linux server for development and backup.
 
 2007 - 2009
-:   **MeStyle**  
-    *Web developer*  
+:   **MeStyle**
+    \-
+    *Web developer*
 
     Work independently under the name MeStyle to gain experience on
-    programming. Besides programming I also kept busy with graphic Design.  
+    programming. Besides programming I also kept busy with graphic Design.
 
     Sample project: <http://campingmariahoeve.nl>
 
@@ -41,19 +53,21 @@
 Meaning: ***Advanced***
 
 Operating systems
-:   ***Linux***, OSX, Windows (95-7)  
+:   ***Linux*** (Debian, CentOS), OSX, Windows (95-7)
 
-    Linux services: Apache2, NFS, OpenSSH, OpenSSL, ProFTPD, rsync, 
-    rsnapshop, Samba, Sphinx, Subversion, Git
+    Linux services: Apache2, Git, NFS, OpenSSH, OpenSSL, ProFTPD, rsync,
+    rsnapshop, Samba, Sphinx, Subversion, Varnish
 
 Virtualization
-:    VirtualBox, Vagrant
+:   Vagrant, VirtualBox
 
 Programming/Scripting
-:   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme  
+:   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
 
-    Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM) 
-    jQuery (JavaScript), ***Kohana*** (PHP *H*MVC), ***MooTools*** (JavaScript)
+    Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM),
+    jQuery (JavaScript), ***Kohana*** (PHP HMVC), ***MooTools*** (JavaScript)
+
+    Software: Piwik (PHP), Wordpress (PHP)
 
 Template engines
 :   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP)
@@ -65,19 +79,21 @@ Meta
 :   ATerms, CSV, JSON, XML
 
 Development environments / Editors
-:   ***Eclipse***, Microsoft Visual Studio (2003/2008), Netbeans, Vi(m)
+:   ***Eclipse***, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
+    , ***Vi(m)***
 
 DBMS
-:   Interbase, MS SQL, ***MySQL***, Oracle, PostgreSQL, Sphinx
+:   Interbase, MS SQL, ***MySQL***, Oracle, ***PostgreSQL***, Sphinx
 
 Versioning
-:   Subversion, Git
+:   ***Git***, Subversion
 
 Architecture
-:   Design Patterns (i.a. ***MVC***), REpresentational State Transfer (REST)
+:   API-Centric design, Design Patterns (o.a. ***MVC***),
+    REpresentational State Transfer (REST)
 
 Certificates
 :   ARIES Hardware/Software, Cisco CCNA 1-4
 
 Languages
-:   Dutch (native), Engels
+:   Dutch (native), English
