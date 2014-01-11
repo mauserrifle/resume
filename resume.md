@@ -24,8 +24,8 @@ Simresults.net
     *Founder and creator*
 
     [Simresults.net](http://simresults.net) is a website that allows you to
-    upload log files from various racing simulators and transforming into a
-    readable format.
+    upload log files from various racing simulators and transforms them into
+    a readable format.
 
     The website is an implementation of a self-developed open-source library
     "Simresults" which is freely available via the website *github*:
