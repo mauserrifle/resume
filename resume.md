@@ -65,9 +65,10 @@ Programming/Scripting
 :   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
 
     Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM),
-    jQuery (JavaScript), ***Kohana*** (PHP HMVC), ***MooTools*** (JavaScript)
+    jQuery (JavaScript), ***Kohana*** (PHP HMVC), ***MooTools*** (JavaScript),
+    PHPUnit (PHP)
 
-    Software: Piwik (PHP), Wordpress (PHP)
+    PHP Software: Composer, Piwik, Wordpress
 
 Template engines
 :   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP)
@@ -91,6 +92,9 @@ Versioning
 Architecture
 :   API-Centric design, Design Patterns (o.a. ***MVC***),
     REpresentational State Transfer (REST)
+
+Development methods
+:   Agile, Test-driven development (TDD)
 
 Certificates
 :   ARIES Hardware/Software, Cisco CCNA 1-4
