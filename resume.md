@@ -2,6 +2,7 @@
 
 * <maurice.vd.star@gmail.com>
 * <http://mauserrifle.nl>
+* <https://github.com/mauserrifle>
 
 -------------------------------------------------------------------------------
 
@@ -12,6 +13,31 @@
 
 2004 - 2008
 :   IT administrator study at ROC in Schagen (The Netherlands).
+
+-------------------------------------------------------------------------------
+
+## Personal projects
+
+Simresults.net
+:   **Website and PHP library**
+    \-
+    *Founder and creator*
+
+    [Simresults.net](http://simresults.net) is a website that allows you to
+    upload log files from various racing simulators and transforming into a
+    readable format.
+
+    The website is an implementation of a self-developed open-source library
+    "Simresults" which is freely available via the website *github*:
+    <https://github.com/mauserrifle/simresults>.
+
+    The library is built according to the development method *TDD*, which
+    means that all use cases of the API have been fully tested. The API is
+    object oriented built and can support multiple simulators with minimal
+    modifications.
+
+Other projects are available at:
+<https://github.com/mauserrifle>
 
 -------------------------------------------------------------------------------
 
@@ -26,7 +52,7 @@
     also responsible for managing the develop team, implement new development
     methods and realization of the objectives set for the department.
 
-2007 - present
+2007 - 2013
 :   **Qball Internet B.V.** in Alkmaar (The Netherlands)
     \-
     *Web developer*
@@ -94,7 +120,7 @@ Architecture
     REpresentational State Transfer (REST)
 
 Development methods
-:   Agile, Test-driven development (TDD)
+:   Agile, Object-oriented programming (OOP), Test-driven development (TDD)
 
 Certificates
 :   ARIES Hardware/Software, Cisco CCNA 1-4
