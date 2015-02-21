@@ -2,7 +2,10 @@
 *~
 
 # Resume html version
-resume.html
+resume*.html
+
+# Resume pdf versions
+resume*.pdf
 
 # Private files
 *.private*
