@@ -1,12 +1,12 @@
 # Maurice van der Star
 
 * <maurice.vd.star@gmail.com>
-* <http://mauserrifle.nl>
 * <https://github.com/mauserrifle>
 
 -------------------------------------------------------------------------------
 
 ## Education
+
 2008 - 2012
 :   IT study at the University of Applied Sciences (HVA) in Amsterdam (The
     Netherlands).
@@ -42,6 +42,7 @@ Other projects are available at:
 -------------------------------------------------------------------------------
 
 ## Experience
+
 2014 - present
 :   **Qball Internet B.V.** in Alkmaar (The Netherlands)
     \-
