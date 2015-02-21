@@ -29,10 +29,10 @@ partials/knowledge.header.md partials/knowledge.md \
 pandoc -s -c style.css resume.private.md -o resume.private.html
 
 # Dutch private resume
-cat partials/header.private.md partials/separator.md partials/nl/education.md \
+cat partials/nl/header.private.md partials/separator.md partials/nl/education.md \
 partials/nl/education.extra.private.md partials/separator.md \
 partials/nl/personal.projects.md partials/separator.md \
-partials/nl/experience.md partials/experience.extra.private.md partials/separator.md \
+partials/nl/experience.md partials/nl/experience.extra.private.md partials/separator.md \
 partials/nl/knowledge.header.md partials/knowledge.md \
  > resume.nl.private.md
 
