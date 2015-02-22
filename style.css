@@ -230,6 +230,10 @@ dl:nth-of-type(3) dd
 
 
 
+dl:last-of-type dt {
+	color: #ed5565;
+	font-weight: bold;
+}
 
 
 
