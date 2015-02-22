@@ -9,6 +9,29 @@
 
 
 
+/* Printing styles */
+
+@media print {
+
+	hr:nth-of-type(1) {
+		margin-bottom: 100px;
+	}
+
+	h2 {
+		page-break-before: always;
+	}
+
+	h2:nth-of-type(1), h2:nth-of-type(2) {
+		page-break-before: avoid;
+	}
+
+	dt, dd {
+		page-break-before: auto;
+	}
+
+}
+
+
 /* General */
 
 
@@ -24,6 +47,13 @@ body {
 h1 {
 	font-size: 38px;
 	text-transform: uppercase;
+}
+
+h2 {
+	font: 700 18px "Open Sans",sans-serif;
+	text-transform: uppercase;
+	border-bottom: 3px solid #11ABB0;
+	padding-bottom: 6px;
 }
 
 hr {
@@ -48,21 +78,10 @@ a:hover {
 	display: none;
 }
 
-
-
-/* Printing breaks */
-
-@media print {
-
-	hr:nth-of-type(1) {
-		margin-bottom: 50px;
-	}
-
-  h2:nth-of-type(3) {
-    page-break-before: always;
-  }
-
+ul {
+	padding-left: 25px;
 }
+
 
 
 
@@ -72,6 +91,9 @@ a:hover {
 h2:nth-of-type(1) {
 	margin-top: -30px;
 	font-style: italic;
+	border: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
 }
 
 .figure:nth-of-type(1) img {
@@ -131,12 +153,14 @@ body > ul:nth-of-type(1) li:nth-of-type(5):before {
 /* Education timeline */
 
 dl:nth-of-type(1),
+dl:nth-of-type(2),
 dl:nth-of-type(3)
 {
 	position: relative;
 }
 
 dl:nth-of-type(1) dt,
+dl:nth-of-type(2) dt,
 dl:nth-of-type(3) dt
 {
 	background: none repeat scroll 0 0 #ed5565;
@@ -145,13 +169,13 @@ dl:nth-of-type(3) dt
 	display: inline-block;
 	font-size: 14px;
 	font-weight: bold;
-	text-transform: uppercase;
 	margin-bottom: 20px;
 	margin-left: 55px;
 	padding: 8px 15px;
 }
 
 dl:nth-of-type(1) dt:before,
+dl:nth-of-type(2) dt:before,
 dl:nth-of-type(3) dt:before
 {
 	display: inline-block;
@@ -170,11 +194,20 @@ dl:nth-of-type(3) dt:before
 	margin-top: -10px;
 }
 
+dl:nth-of-type(1) dt:before {
+	content: "\f19c";
+}
+
+dl:nth-of-type(2) dt:before {
+	content: "\f1b0";
+}
+
 dl:nth-of-type(3) dt:before {
-  content: "\f0b1";
+	content: "\f0b1";
 }
 
 dl:nth-of-type(1):before,
+dl:nth-of-type(2):before,
 dl:nth-of-type(3):before
 {
 	background: #11abb0;
@@ -188,6 +221,7 @@ dl:nth-of-type(3):before
 }
 
 dl:nth-of-type(1) dd,
+dl:nth-of-type(2) dd,
 dl:nth-of-type(3) dd
 {
 	margin-bottom: 55px;
