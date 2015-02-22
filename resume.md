@@ -9,6 +9,18 @@
 
 -------------------------------------------------------------------------------
 
+## Profile
+
+Passionate developer that always feels the responsibility to deliver the best
+possible work within factors such as requirements, time, budget and re-usable
+code. Am a true perfectionist that is realistic within professional environments
+by basing my decisions on these multiple factors. I like to see every project
+as an opportunity to improve both my own and the organization knowledge. I am
+known for clear communication and building a bridge between developers and non-
+developers.
+
+-------------------------------------------------------------------------------
+
 ## Education
 
 2008 - 2012
@@ -39,9 +51,6 @@ Simresults.net
     means that all use cases of the API have been fully tested. The API is
     object oriented built and can support multiple simulators with minimal
     modifications.
-
-Other projects are available at:
-<https://github.com/mauserrifle>
 
 -------------------------------------------------------------------------------
 
@@ -77,6 +86,17 @@ Other projects are available at:
 
     Sample project: <http://campingmariahoeve.nl>
 
+2006 - 2007
+:   **NIOZ (Royal Institute for Sea Research)** in Den Hoorn (The Netherlands)
+    \-
+    *Trainee IT*
+
+    Five months intership. Main activities:
+
+       - Main point of contact for the helpdesk;
+       - Develop Windows batch installations;
+       - Develop web applications in HTML, CSS, PHP and Oracle SQL.
+
 -------------------------------------------------------------------------------
 
 ## Knowledge & Skills
@@ -96,13 +116,14 @@ Programming/Scripting
 :   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
 
     Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM),
-    jQuery (JavaScript), ***Kohana*** (PHP HMVC), ***MooTools*** (JavaScript),
-    PHPUnit (PHP)
+    jQuery (JS), ***Kohana*** (PHP), ***Laravel*** (PHP),
+    MooTools (JS), PHPUnit (PHP)
 
-    PHP Software: Composer, Piwik, Wordpress
+    PHP Software: Composer, Magento, Piwik, Wordpress
 
 Template engines
-:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP)
+:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP),
+    Blade (PHP)
 
 Markup
 :   ***CSS***, ***HTML***, Markdown
@@ -111,7 +132,7 @@ Meta
 :   ATerms, CSV, JSON, XML
 
 Development environments / Editors
-:   ***Eclipse***, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
+:   Eclipse, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
     , ***Vi(m)***
 
 DBMS
@@ -125,7 +146,9 @@ Architecture
     REpresentational State Transfer (REST)
 
 Development methods
-:   Agile, Object-oriented programming (OOP), Test-driven development (TDD)
+:   Agile, Don't Repeat Yourself (DRY), Object-oriented programming (OOP),
+    open/closed principle, Single responsibility principle,
+    Test-driven development (TDD)
 
 Certificates
 :   ARIES Hardware/Software, Cisco CCNA 1-4

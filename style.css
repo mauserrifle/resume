@@ -13,20 +13,12 @@
 
 @media print {
 
-	hr:nth-of-type(1) {
-		margin-bottom: 100px;
-	}
-
-	h2 {
+	h2:last-of-type,  h2:nth-of-type(5) {
 		page-break-before: always;
 	}
 
-	h2:nth-of-type(1), h2:nth-of-type(2) {
-		page-break-before: avoid;
-	}
-
 	dt, dd {
-		page-break-before: auto;
+		page-break-inside: avoid;
 	}
 
 }
@@ -40,8 +32,13 @@ body {
 	margin: 0 auto;
 	background-color: #fff;
 	font-family: Georgia;
+	font-size: 15px;
 	color: #444;
 	position: relative;
+}
+
+code {
+	font-size: 13px;
 }
 
 h1 {
@@ -169,7 +166,6 @@ dl:nth-of-type(3) dt
 	display: inline-block;
 	font-size: 14px;
 	font-weight: bold;
-	margin-bottom: 20px;
 	margin-left: 55px;
 	padding: 8px 15px;
 }
@@ -224,11 +220,13 @@ dl:nth-of-type(1) dd,
 dl:nth-of-type(2) dd,
 dl:nth-of-type(3) dd
 {
-	margin-bottom: 55px;
+	margin-bottom: 20px;
 	margin-left: 55px;
 }
 
-
+dl:last-of-type {
+	font-size: 14px;
+}
 
 dl:last-of-type dt {
 	color: #ed5565;

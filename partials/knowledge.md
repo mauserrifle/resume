@@ -11,13 +11,14 @@ Programming/Scripting
 :   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
 
     Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM),
-    jQuery (JavaScript), ***Kohana*** (PHP HMVC), ***MooTools*** (JavaScript),
-    PHPUnit (PHP)
+    jQuery (JS), ***Kohana*** (PHP), ***Laravel*** (PHP),
+    MooTools (JS), PHPUnit (PHP)
 
-    PHP Software: Composer, Piwik, Wordpress
+    PHP Software: Composer, Magento, Piwik, Wordpress
 
 Template engines
-:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP)
+:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP),
+    Blade (PHP)
 
 Markup
 :   ***CSS***, ***HTML***, Markdown
@@ -26,7 +27,7 @@ Meta
 :   ATerms, CSV, JSON, XML
 
 Development environments / Editors
-:   ***Eclipse***, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
+:   Eclipse, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
     , ***Vi(m)***
 
 DBMS
@@ -40,7 +41,9 @@ Architecture
     REpresentational State Transfer (REST)
 
 Development methods
-:   Agile, Object-oriented programming (OOP), Test-driven development (TDD)
+:   Agile, Don't Repeat Yourself (DRY), Object-oriented programming (OOP),
+    open/closed principle, Single responsibility principle,
+    Test-driven development (TDD)
 
 Certificates
 :   ARIES Hardware/Software, Cisco CCNA 1-4

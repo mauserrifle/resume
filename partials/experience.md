@@ -29,3 +29,14 @@
     programming. Besides programming I also kept busy with graphic Design.
 
     Sample project: <http://campingmariahoeve.nl>
+
+2006 - 2007
+:   **NIOZ (Royal Institute for Sea Research)** in Den Hoorn (The Netherlands)
+    \-
+    *Trainee IT*
+
+    Five months intership. Main activities:
+
+       - Main point of contact for the helpdesk;
+       - Develop Windows batch installations;
+       - Develop web applications in HTML, CSS, PHP and Oracle SQL.

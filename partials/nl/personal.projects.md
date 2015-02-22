@@ -16,6 +16,3 @@ Simresults.net
     De bibliotheek is volgens de ontwikkelmethode *TDD* gebouwd, waardoor alle
     use-cases van de API volledig getest zijn. De API is objectgeoriënteerd
     ogebouwd en kan meerdere simulatoren ondersteunen met minimale aanpassingen.
-
-Overige projecten staan ter inzage op:
-<https://github.com/mauserrifle>

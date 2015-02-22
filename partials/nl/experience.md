@@ -32,3 +32,14 @@
     ontwerp.
 
     Voorbeeld project: <http://campingmariahoeve.nl>
+
+2006 - 2007
+:   **NIOZ (Nederlands Instituut onderzoek Der Zee)** te Den Hoorn (Texel)
+    \-
+    *Stagiaire ICT medewerker*
+
+    Vijf maanden stage. Hoofd werkzaamheden:
+
+       - Aanspreekpunt voor de Helpdesk;
+       - Ontwikkelen Windows batch installaties;
+       - Ontwikkelen webapplicaties binnen HTML, CSS, PHP en Oracle SQL.

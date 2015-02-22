@@ -9,12 +9,23 @@
 
 -------------------------------------------------------------------------------
 
+## Profiel
+
+Gepassioneerde developer die altijd de verantwoordelijkheid voelt om het beste
+resultaat op te leveren binnen factoren zoals requirements, tijd, budget en
+herbruikbare code. Ben een echte perfectionist dat realistisch is binnen de
+professionele omgeving door mijn beslissingen te baseren op deze factoren.
+Ik zie graag elk project als een kans om zowel mijn eigen als de organisatie
+zijn kennis te verbeteren. Ik sta bekend voor duidelijke communicatie en het
+bouwen van een brug tussen ontwikkelaars en niet- ontwikkelaars.
+
+-------------------------------------------------------------------------------
+
 ## Opleiding en studies
 
 2008 - 2012
-:   HBO Informatica Deeltijd aan de HVA te Amsterdam.
-    Minor aan de UVA te Amsterdam. Extra project uitgevoerd met betrekking tot
-    generen van code door middel van templates.
+:   HBO Informatica Deeltijd aan de HVA te Amsterdam. Minor aan de UVA te
+    Amsterdam.
 
 2004 - 2008
 :   MBO ICT-BEHEERDER niveau 4 aan het ROC te Schagen.
@@ -39,9 +50,6 @@ Simresults.net
     De bibliotheek is volgens de ontwikkelmethode *TDD* gebouwd, waardoor alle
     use-cases van de API volledig getest zijn. De API is objectgeoriënteerd
     ogebouwd en kan meerdere simulatoren ondersteunen met minimale aanpassingen.
-
-Overige projecten staan ter inzage op:
-<https://github.com/mauserrifle>
 
 -------------------------------------------------------------------------------
 
@@ -80,6 +88,17 @@ Overige projecten staan ter inzage op:
 
     Voorbeeld project: <http://campingmariahoeve.nl>
 
+2006 - 2007
+:   **NIOZ (Nederlands Instituut onderzoek Der Zee)** te Den Hoorn (Texel)
+    \-
+    *Stagiaire ICT medewerker*
+
+    Vijf maanden stage. Hoofd werkzaamheden:
+
+       - Aanspreekpunt voor de Helpdesk;
+       - Ontwikkelen Windows batch installaties;
+       - Ontwikkelen webapplicaties binnen HTML, CSS, PHP en Oracle SQL.
+
 -------------------------------------------------------------------------------
 
 ## Kennis & Vaardigheden
@@ -99,13 +118,14 @@ Programming/Scripting
 :   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
 
     Frameworks: Django (Python), ***Doctrine2*** (PHP ORM), Hibernate (Java ORM),
-    jQuery (JavaScript), ***Kohana*** (PHP HMVC), ***MooTools*** (JavaScript),
-    PHPUnit (PHP)
+    jQuery (JS), ***Kohana*** (PHP), ***Laravel*** (PHP),
+    MooTools (JS), PHPUnit (PHP)
 
-    PHP Software: Composer, Piwik, Wordpress
+    PHP Software: Composer, Magento, Piwik, Wordpress
 
 Template engines
-:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP)
+:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP),
+    Blade (PHP)
 
 Markup
 :   ***CSS***, ***HTML***, Markdown
@@ -114,7 +134,7 @@ Meta
 :   ATerms, CSV, JSON, XML
 
 Development environments / Editors
-:   ***Eclipse***, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
+:   Eclipse, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
     , ***Vi(m)***
 
 DBMS
@@ -128,7 +148,9 @@ Architecture
     REpresentational State Transfer (REST)
 
 Development methods
-:   Agile, Object-oriented programming (OOP), Test-driven development (TDD)
+:   Agile, Don't Repeat Yourself (DRY), Object-oriented programming (OOP),
+    open/closed principle, Single responsibility principle,
+    Test-driven development (TDD)
 
 Certificates
 :   ARIES Hardware/Software, Cisco CCNA 1-4

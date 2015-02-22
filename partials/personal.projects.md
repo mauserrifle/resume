@@ -17,6 +17,3 @@ Simresults.net
     means that all use cases of the API have been fully tested. The API is
     object oriented built and can support multiple simulators with minimal
     modifications.
-
-Other projects are available at:
-<https://github.com/mauserrifle>
