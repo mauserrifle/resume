@@ -124,7 +124,7 @@ Programming/Scripting
     PHP Software: Composer, Magento, Piwik, Wordpress
 
 Template engines
-:   Django (Python), JSP (Java), ***Mustache***, ***Smarty*** (PHP), Twig (PHP),
+:   Django (Python), JSP (Java), ***Mustache***, Smarty (PHP), Twig (PHP),
     Blade (PHP)
 
 Markup
@@ -144,8 +144,7 @@ Versioning
 :   ***Git***, Subversion
 
 Architecture
-:   API-Centric design, Design Patterns (o.a. ***MVC***),
-    REpresentational State Transfer (REST)
+:   API-Centric design, Design Patterns, REpresentational State Transfer (REST)
 
 Development methods
 :   Agile, Don't Repeat Yourself (DRY), Object-oriented programming (OOP),
