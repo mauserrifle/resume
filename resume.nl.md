@@ -2,7 +2,7 @@
 
 ## Web developer
 
-![Foto](./photo.jpg)
+![Foto](https://raw.githubusercontent.com/mauserrifle/resume/master/photo.jpg)
 
 * <https://github.com/mauserrifle>
 * <maurice.vd.star@gmail.com>
@@ -13,10 +13,10 @@
 
 Gepassioneerde developer die altijd de verantwoordelijkheid voelt om het beste
 resultaat op te leveren binnen factoren zoals requirements, tijd, budget en
-herbruikbare code. Ben een echte perfectionist dat realistisch is binnen de
+herbruikbare code. Ik ben een echte perfectionist dat realistisch is binnen de
 professionele omgeving door mijn beslissingen te baseren op deze factoren.
 Ik zie graag elk project als een kans om zowel mijn eigen als de organisatie
-zijn kennis te verbeteren. Ik sta bekend voor duidelijke communicatie en het
+zijn kennis te verbeteren. Ik sta bekend om duidelijke communicatie en het
 bouwen van een brug tussen ontwikkelaars en niet- ontwikkelaars.
 
 -------------------------------------------------------------------------------

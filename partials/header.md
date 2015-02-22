@@ -2,7 +2,7 @@
 
 ## Web developer
 
-![Foto](./photo.jpg)
+![Foto](https://raw.githubusercontent.com/mauserrifle/resume/master/photo.jpg)
 
 * <https://github.com/mauserrifle>
 * <maurice.vd.star@gmail.com>
