@@ -26,9 +26,7 @@
     *Web developer*
 
     Work independently under the name MeStyle to gain experience on
-    programming. Besides programming I also kept busy with graphic Design.
-
-    Sample project: <http://campingmariahoeve.nl>
+    programming. Besides programming I also kept busy with graphic design.
 
 2006 - 2007
 :   **NIOZ (Royal Institute for Sea Research)** in Den Hoorn (The Netherlands)

@@ -31,8 +31,6 @@
     programmeren. Naast het programmeren hield ik mij ook bezig met grafisch
     ontwerp.
 
-    Voorbeeld project: <http://campingmariahoeve.nl>
-
 2006 - 2007
 :   **NIOZ (Nederlands Instituut onderzoek Der Zee)** te Den Hoorn (Texel)
     \-

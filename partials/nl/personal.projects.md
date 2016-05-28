@@ -13,6 +13,6 @@ Simresults.net
     bibliotheek "Simresults" die vrij beschikbaar is via de website *github*:
     <https://github.com/mauserrifle/simresults>.
 
-    De bibliotheek is volgens de ontwikkelmethode *TDD* gebouwd, waardoor alle
-    use-cases van de API volledig getest zijn. De API is objectgeoriënteerd
-    ogebouwd en kan meerdere simulatoren ondersteunen met minimale aanpassingen.
+    De bibliotheek is volgens de ontwikkelmethode *TDD* gebouwd, waardoor
+    use-cases van de API getest zijn. De API is objectgeoriënteerd ogebouwd en
+    kan meerdere simulatoren ondersteunen met minimale aanpassingen.

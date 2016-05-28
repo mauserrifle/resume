@@ -14,6 +14,6 @@ Simresults.net
     <https://github.com/mauserrifle/simresults>.
 
     The library is built according to the development method *TDD*, which
-    means that all use cases of the API have been fully tested. The API is
-    object oriented built and can support multiple simulators with minimal
+    means that use cases of the API have been tested. The API is object
+    oriented built and can support multiple simulators with minimal
     modifications.
