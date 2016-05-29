@@ -114,7 +114,7 @@ Koopplein.nl
 
     The project has some principles that I still stand behind this day:
 
-    * The website is API-first. API-first forces making decoupled code.
+    * The website is API-first. API-first forces decoupled code.
 
     * The website contains several layers of cache (fallbacks)
     1. Repository cache (PHP)
