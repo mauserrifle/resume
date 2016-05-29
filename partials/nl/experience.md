@@ -5,7 +5,7 @@
     \-
     *Lead developer*
 
-    Werkzaam als lead developer (manager). Dezelfde (technische) werkzaamheden
+    Werkzaam als lead developer. Dezelfde (technische) werkzaamheden
     als functie "Web developer" (zie periode 2007 - 2013). In deze functie ook
     verantwoordelijk voor de aansturing van het develop team, implementatie van
     nieuwe ontwikkelmethoden en realisatie van gestelde afdeling doelstellingen.

@@ -4,8 +4,9 @@
 cat partials/header.md partials/separator.md \
 partials/profile.md partials/separator.md \
 partials/education.md partials/separator.md \
-partials/personal.projects.md partials/separator.md \
+partials/personal.projects.md \
 partials/experience.md partials/separator.md \
+partials/work.projects.md partials/separator.md \
 partials/knowledge.header.md partials/knowledge.md \
  > resume.md
 
@@ -18,8 +19,9 @@ wkhtmltopdf --print-media-type resume.html resume.pdf
 cat partials/header.md partials/separator.md \
 partials/nl/profile.md partials/separator.md \
 partials/nl/education.md partials/separator.md \
-partials/nl/personal.projects.md partials/separator.md \
+partials/nl/personal.projects.md \
 partials/nl/experience.md partials/separator.md  \
+partials/nl/work.projects.md partials/separator.md  \
 partials/nl/knowledge.header.md partials/knowledge.md \
  > resume.nl.md
 
@@ -34,8 +36,9 @@ wkhtmltopdf --print-media-type resume.nl.html resume.nl.pdf
 cat partials/header.private.md partials/separator.md \
 partials/profile.md partials/separator.md \
 partials/education.md  partials/separator.md \
-partials/personal.projects.md partials/separator.md \
+partials/personal.projects.md \
 partials/experience.md partials/separator.md \
+partials/work.projects.md partials/separator.md \
 partials/knowledge.header.md partials/knowledge.md \
  > resume.private.md
 
@@ -48,8 +51,9 @@ wkhtmltopdf --print-media-type resume.private.html resume.private.pdf
 cat partials/nl/header.private.md partials/separator.md \
 partials/nl/profile.md partials/separator.md \
 partials/nl/education.md partials/separator.md \
-partials/nl/personal.projects.md partials/separator.md \
+partials/nl/personal.projects.md \
 partials/nl/experience.md partials/separator.md \
+partials/nl/work.projects.md partials/separator.md \
 partials/nl/knowledge.header.md partials/knowledge.md \
  > resume.nl.private.md
 

@@ -13,11 +13,19 @@
 
 Passionate developer that always feels the responsibility to deliver the best
 possible work within factors such as requirements, time, budget and re-usable
-code. I am a true perfectionist that is realistic within professional
-environments by basing my decisions on these multiple factors. I like to see
-every project as an opportunity to improve both my own and the organization
-knowledge. I am known for clear communication and building a bridge between
-developers and non- developers.
+code. I am a true perfectionist that is realistic by basing my decisions on
+these multiple factors. I like to see every project as an opportunity to
+improve both my own and the organization knowledge. I am known for clear
+communication and building a bridge between developers and non- developers.
+
+As a developer I do not code without *git*. Hate it when *entities* float
+everywhere. I like my *controllers* slim, no more than a link between
+*business* and *presentation*. I create *templates* without logic and belief
+that the little things like programming with max *80 columns* make a world
+of difference.
+
+I have the knowledge to plan, deliver and maintain an entire project with the
+help of a passionate front-end developer by my side.
 
 -------------------------------------------------------------------------------
 
@@ -51,9 +59,6 @@ Simresults.net
     means that use cases of the API have been tested. The API is object
     oriented built and can support multiple simulators with minimal
     modifications.
-
--------------------------------------------------------------------------------
-
 ## Experience
 
 2014 - present
@@ -61,7 +66,7 @@ Simresults.net
     \-
     *Lead developer*
 
-    Working as a lead developer (manager). Same (technical) activities as
+    Working as a lead developer. Same (technical) activities as
     position "Web developer" (see period 2007 - 2013). Within this position
     also responsible for managing the develop team, implement new development
     methods and realization of the objectives set for the department.
@@ -97,41 +102,71 @@ Simresults.net
 
 -------------------------------------------------------------------------------
 
+## Example project
+
+Koopplein.nl
+:   **Complete rewrite**
+
+    Koopplein.nl is a digital marketplace where you can trade. My task for this
+    project was rebuilding the entire website in a year. Besides developing I
+    was also responsible for the project management and managing external
+    developers.
+
+    The project has some principles that I still stand behind this day:
+
+    * The website is API-first. API-first forces making decoupled code.
+
+    * The website contains several layers of cache (fallbacks)
+    1. Repository cache (PHP)
+    2. API cache using HTTP headers (PHP)
+    3. Full page cache (PHP)
+    4. Proxy cache (NGINX)
+
+    * I used logic-less templates (*Mustache*) to the improve working with
+    designers and keep template code maintainable.
+
+	* The project is available in *Vagrant* with the help of
+	  *provisioning scripts*.
+
+    With great pride I am eight years responsible for this project.
+
+-------------------------------------------------------------------------------
+
 ## Knowledge & Skills
 
 Meaning: ***Advanced***
 
 Operating systems
-:   ***Linux*** (Debian, CentOS), OSX, Windows
+:   ***Linux*** (***Debian***, CentOS), OSX, Windows
 
-    Linux services: Apache2, NFS, OpenSSL, ProFTPD, rsync, rsnapshop, Samba,
+    Services: Apache2, NFS, Nginx, OpenSSL, ProFTPD, rsync, rsnapshop, Samba,
     Sphinx, Varnish
 
-    Linux workflow tools: screen, tmux
+    Workflow: screen, tmux
 
 Virtualization
 :   Vagrant
 
 Programming/Scripting
-:   Bash, C#, Java, ***JavaScript***, Lisp, ***PHP5***, Python, Scheme
+:   Bash, C#, Java, ***JavaScript (vanilla)***, ***PHP***, Python, Scheme
 
     Frameworks: Django (Python), jQuery (JS), ***Kohana*** (PHP),
     ***Laravel*** (PHP), MooTools (JS), PHPUnit (PHP)
 
-    ORM: ***Doctrine2*** (PHP ORM), Hibernate (Java ORM)
+    ORM: ***Doctrine2*** (PHP), Eloquent (PHP), Hibernate (Java)
 
     PHP Software: Composer, Magento, Piwik, Wordpress
 
 Template engines
-:   ***Mustache***, Smarty (PHP), Twig (PHP), Blade (PHP)
+:   ***Mustache***, Smarty, Twig, Blade
 
 Markup
 :   ***CSS***, ***HTML***, Markdown
 
-Meta
-:   ATerms, CSV, JSON, XML
+SEO
+:   Fast first byte, non-blocking content, HTTP status codes, Schema.org
 
-Development environments / Editors
+Editors
 :   Eclipse, Visual Studio (2003/2008), Netbeans, ***Sublime Text***
     , ***Vim***
 
@@ -141,11 +176,14 @@ DBMS
 Versioning
 :   ***Git***, Subversion
 
+Project management
+:   Issue tracking, Mind Mapping
+
 Architecture I am interested in
 :   API-Centric design, REpresentational State Transfer (REST)
 
 Development methods I am interested in
-:   Design Patterns, Don't Repeat Yourself (DRY),
+:   BEM (CSS), Design Patterns, Don't Repeat Yourself (DRY),
     Object-oriented programming (OOP), open/closed principle,
     Single responsibility principle, Test-driven development
 

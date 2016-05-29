@@ -5,7 +5,7 @@
     \-
     *Lead developer*
 
-    Working as a lead developer (manager). Same (technical) activities as
+    Working as a lead developer. Same (technical) activities as
     position "Web developer" (see period 2007 - 2013). Within this position
     also responsible for managing the develop team, implement new development
     methods and realization of the objectives set for the department.
