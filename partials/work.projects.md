@@ -18,8 +18,8 @@ Koopplein.nl
     3. Full page cache (PHP)
     4. Proxy cache (NGINX)
 
-    * I used logic-less templates (*Mustache*) to the improve working with
-    designers and keep template code maintainable.
+    * I used logic-less templates (*Mustache*) to improve working with
+    designers and keep the template code maintainable.
 
 	* The project is available in *Vagrant* with the help of
 	  *provisioning scripts*.
